@@ -1,10 +1,6 @@
 <?php
 $etudiants = [
-<<<<<<< HEAD
     ["nom" => "Jessy KAMADEU", "note" => 14.71],
-=======
-    ["nom" => "Hugo JESSY", "note" => 20.0],
->>>>>>> feature/conflit
     ["nom" => "Alice", "note" => 15.5],
 ];
 ?>
