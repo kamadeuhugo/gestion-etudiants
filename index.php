@@ -1,6 +1,6 @@
 <?php
 $etudiants = [
-    ["nom" => "Jessy", "note" => 14.71],
+    ["nom" => "Jessy KAMADEU", "note" => 14.71],
     ["nom" => "Alice", "note" => 15.5],
 ];
 ?>
